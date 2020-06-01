@@ -14,11 +14,6 @@
  ## Usage 
  node the server.js file. 
 
- ## License 
-  
-
- ### GithubProfileImage 
- ![githubimage]() 
  ### GithubUsername:Rafquadros22 
       
     
